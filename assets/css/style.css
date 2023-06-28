@@ -4,17 +4,28 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
     background-color: #e7e0d3;
 }
+
 /*Header Style Selectors*/
 header{
     background-color:#000026;
     color: white;
     text-align: center;
 }
+h1{
+    padding: 25px;
+    font-size: 4em;
+}
 
 .smile{
     width: 100%;
+}
+
+/*Footer Style Selectors*/
+footer{
+    background-color:#000026;
+    color: white;
+    text-align: center;
 }
